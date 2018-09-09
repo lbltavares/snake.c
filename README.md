@@ -5,5 +5,5 @@
 ## slither.io based game
 
 * See/edit configurations in define.h
-* For human players, move with WSAD / Arrows
+* For human players, move with WASD / Arrows
 * "/res" and "snake.exe" must be inside the same folder, along with DLLs
