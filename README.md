@@ -6,3 +6,4 @@
 
 * See/edit configurations in define.h
 * For human players, move with WSAD / Arrows
+* "/res" and "snake.exe" must be inside the same folder, along with DLLs
