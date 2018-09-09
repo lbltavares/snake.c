@@ -1,6 +1,7 @@
 # snake.c
 
-<img width="781" alt="snake" src="https://user-images.githubusercontent.com/34322384/45265961-f4e35c80-b429-11e8-917c-6f70102af4c2.png">
+<img width="781" alt="snake" src="https://user-images.githubusercontent.com/34322384/45266050-725b9c80-b42b-11e8-898d-e78d3ce71c9d.png">
+
 
 ## slither.io based game
 
